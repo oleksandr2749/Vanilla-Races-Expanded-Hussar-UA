@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VREH_Dutiful.label>відданий</VREH_Dutiful.label>
+  <VREH_Dutiful.description>Носій цього гена має підвищене почуття обов'язку, тому ніколи не відмовиться виконувати їх.</VREH_Dutiful.description>
+
+  <VREH_BulletproofSkin.label>кулестійка шкіра</VREH_BulletproofSkin.label>
+  <VREH_BulletproofSkin.description>Шкіра носія цього гена має органічні кевлароподібні волокна, через що дрібні калібри не несуть загрози.</VREH_BulletproofSkin.description>
+
+  <VREH_Giant.label>гігантизм</VREH_Giant.label>
+  <VREH_Giant.description>Носій цього гена трохи більший, ніж звичайні люди.</VREH_Giant.description>
+
+  <VREH_Toughness.label>міцність</VREH_Toughness.label>
+  <VREH_Toughness.description>Носій цього гена має товсту шкіру і міцні кістки. Він отримує набагато менше пошкоджень.</VREH_Toughness.description>
+
+  <VREH_Arrogant.label>прямота</VREH_Arrogant.label>
+  <VREH_Arrogant.description>Носій цього гена не маює сумніву у своїх словах, тому завжди говорять те, що в них на думці, навіть якщо це не подобається іншим.</VREH_Arrogant.description>
+
+  <VREH_Unconstrained.label>гнучкість</VREH_Unconstrained.label>
+  <VREH_Unconstrained.description>Носій цього гена не страждає від зниження швидкості пересування, через носіння одягу, що зазвичай їх уповільнює.</VREH_Unconstrained.description>
+
+  <VREH_ChemicalDependency_Luciferium.label>залежність від люциферію</VREH_ChemicalDependency_Luciferium.label>
+  <VREH_ChemicalDependency_Luciferium.description> Носій цього гена повинні регулярно приймати люциферій, інакше, через 20 днів вони впадуть у кому, а через 30 - помруть.</VREH_ChemicalDependency_Luciferium.description>
+
+  <VREH_Glidewings.label>прильця</VREH_Glidewings.label>
+  <VREH_Glidewings.description>Носій цього гена має пару невеликих крил. Вони не здатні повноцінно літати, але можуть перелітати перешкоди.</VREH_Glidewings.description>
+
+
+</LanguageData>

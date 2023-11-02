@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VREH_Glidewings.label>крильця</VREH_Glidewings.label>
+  <VREH_Glidewings.description>Пара невеликих крил, що ростуть з лопаток цього персонажа, дають змогу перелітати об'єкти, але повноцінний політ вони не забезпечують.</VREH_Glidewings.description>
+
+  <VREH_GeneticDrugNeed_Luci.label>хімічна залежність</VREH_GeneticDrugNeed_Luci.label>
+  <VREH_GeneticDrugNeed_Luci.description>Персонаж має генетичну залежність від певного наркотику. Без регулярних доз, персонаж страждатиме від погіршення здоров'я та настрою до самої смерті.</VREH_GeneticDrugNeed_Luci.description>
+  <VREH_GeneticDrugNeed_Luci.stages.1.label>deficiency</VREH_GeneticDrugNeed_Luci.stages.1.label>
+
+
+</LanguageData>
